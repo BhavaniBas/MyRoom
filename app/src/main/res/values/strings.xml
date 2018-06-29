@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Room</string>
+
+    <string name="please_wait">Please wait...</string>
+    <string name="true_value">true</string>
+    <string name="something_went_wrong_net">Something went wrong, Please check internet connection</string>
+</resources>
